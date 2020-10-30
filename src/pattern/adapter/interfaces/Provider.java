@@ -1,8 +1,8 @@
-package adapter;
+package pattern.adapter.interfaces;
 
 /**
  * @author Ethan
- * @description 服务提供者
+ * @version 1.0
  * @date 7/5 15:50
  */
 public interface Provider {

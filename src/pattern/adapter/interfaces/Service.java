@@ -1,9 +1,13 @@
-package adapter;
+package pattern.adapter.interfaces;
 
 /**
  * @author Ethan
- * @description 适配器模式的service
+ * @version 1.0
  * @date 7/5 15:48
+ * <p>
+ *     适配接口:
+ *          适配器模式的service
+ * </p>
  */
 public interface Service {
     /**
