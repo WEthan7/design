@@ -7,8 +7,8 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author Ethan
- * @version 1.0
+ * @author Ethan.Barbatos
+ * @version AWS-G.1.0
  * @date 7/5 15:59
  *
  * <p>

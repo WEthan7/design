@@ -6,8 +6,8 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @author Ethan
- * @version 1.0
+ * @author Ethan.Barbatos
+ * @version AWS-G.1.0
  * @date 10/30 19:04
  */
 public class Observable implements Subject {

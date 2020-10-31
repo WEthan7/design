@@ -3,8 +3,8 @@ package pattern.adapter;
 import pattern.adapter.interfaces.Service;
 
 /**
- * @author Ethan
- * @version 1.0
+ * @author Ethan.Barbatos
+ * @version AWS-G.1.0
  * @date 10/30 19:19
  */
 public class ProviderMain {

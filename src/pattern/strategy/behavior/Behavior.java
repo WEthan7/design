@@ -1,8 +1,8 @@
 package pattern.strategy.behavior;
 
 /**
- * @author Ethan
- * @version 1.0
+ * @author Ethan.Barbatos
+ * @version AWS-G.1.0
  * @date 10/30 18:58
  *
  * <p>

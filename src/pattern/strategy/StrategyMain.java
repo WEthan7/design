@@ -4,8 +4,8 @@ import pattern.strategy.behavior.Behavior;
 import pattern.strategy.behavior.SysOutBehavior;
 
 /**
- * @author Ethan
- * @version 1.0
+ * @author Ethan.Barbatos
+ * @version AWS-G.1.0
  * @date 10/30 19:00
  *
  * <p>

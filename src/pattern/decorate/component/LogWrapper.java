@@ -1,11 +1,11 @@
-package pattern.strategy.behavior;
+package pattern.decorate.component;
 
 /**
  * @author Ethan.Barbatos
  * @version AWS-G.1.0
- * @date 10/30 19:02
+ * @date 10/31 0:42
  */
-public class SysOutBehavior implements Behavior {
+public class LogWrapper implements Wrapper {
     @Override
     public void serve() {
         System.out.println(this.getClass().getCanonicalName());

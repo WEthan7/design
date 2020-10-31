@@ -3,8 +3,8 @@ package pattern.observe.observer;
 import pattern.observe.subject.Observable;
 
 /**
- * @author Ethan
- * @version 1.0
+ * @author Ethan.Barbatos
+ * @version AWS-G.1.0
  * @date 10/30 19:05
  */
 public class SysoutObserver implements Observer {
