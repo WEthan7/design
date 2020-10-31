@@ -3,15 +3,12 @@ package pattern.adapter.interfaces;
 /**
  * @author Ethan.Barbatos
  * @version AWS-G.1.0
- * @date 7/5 15:48
+ * @date 10/31 18:13
+ *
  * <p>
- *     适配接口:
- *          适配器模式的service
+ *     实际需要执行的接口, 也就是隐藏的接口
  * </p>
  */
 public interface Service {
-    /**
-     * 功能抽象接口
-     */
-    void doService();
+    public void doService();
 }
